@@ -1,7 +1,7 @@
 pytest-django-casperjs
 ======================
 
-.. image:: https://pypip.in/v/pytest-django-casperjs/badge.png
+.. image:: https://img.shields.io/pypi/v/pytest-django-casperjs.svg
     :target: https://pypi.python.org/pypi/pytest-django-casperjs
     :alt: Latest PyPI version
 
